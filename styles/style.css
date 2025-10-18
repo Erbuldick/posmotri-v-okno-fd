@@ -99,7 +99,7 @@ ol {
   border: none;
   display: flex;
   flex-direction: column;
-  gap: 5px;
+  gap: 7px;
 }
 
 .search-form__fieldset-title {
@@ -205,7 +205,7 @@ ol {
 }
 
 .search-form__submit-button {
-  padding: 6px 73.5px;
+  padding: 6px 72.5px;
   align-self: end;
 }
 
@@ -309,8 +309,7 @@ ol {
   white-space: nowrap;
   overflow: hidden;
   width: 196px;
-  margin-bottom: 3px;
-  padding-bottom: 3px;
+  padding-bottom: 2px;
 }
 
 .content__video-card-description {
