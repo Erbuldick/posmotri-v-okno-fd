@@ -66,21 +66,19 @@ ol {
 .content {
   display: flex;
   width: 1140px;
-  height: 534px;
   gap: 30px;
   align-items: end;
+  padding-bottom: 4px;
 }
 
 .result__video-container {
   margin-bottom: 16px;
-  position: relative;
   width: 711px;
   height: 386px;
   position: relative;
 }
 
 .result__video {
-  position: absolute;
   inset: 0;
   width: 100%;
   height: 100%;
@@ -219,7 +217,7 @@ ol {
   height: 100%;
   display: flex;
   flex-direction: column;
-  gap: 26px;
+  gap: 20px;
   justify-content: end;
 }
 
@@ -229,6 +227,7 @@ ol {
   line-height: 94%;
   text-transform: uppercase;
   font-family: 'Oswald', sans-serif;
+  padding-top: 5px;
 }
 
 .content__accent {
@@ -309,7 +308,7 @@ ol {
   white-space: nowrap;
   overflow: hidden;
   width: 196px;
-  padding-bottom: 2px;
+  padding-bottom: 4px;
 }
 
 .content__video-card-description {
